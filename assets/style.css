@@ -98,6 +98,13 @@ header nav ul li a{
     padding: 15px auto 15px 0;
 }
 
+#onlytasks{
+    height: auto; 
+    width: auto; 
+    max-width: 1000px; 
+    max-height: 1000px;
+}
+
 /*Contact Info*/
 
 .contact{
